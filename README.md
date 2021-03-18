@@ -1,3 +1,7 @@
 # SeungPage
-Personal homepage
-Hi
+
+
+Hello, this is my personal homepage.
+Welcome everyone.
+
+
