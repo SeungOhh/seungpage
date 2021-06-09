@@ -19,6 +19,9 @@ function MainPage() {
         <a href="https://oneclickai.co.kr/">OneClickAI</a>
         <a href="/">Vehicle modeling and control</a>
         <a href="/">Aerodynamics around flapping wings</a>
+
+        <p>Works that I did or contributed</p>
+        <a href="/testPage1">ssss</a>
       </header>
     </div>
   );
